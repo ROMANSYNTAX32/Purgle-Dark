@@ -5,7 +5,7 @@
 * Easy on the eyes
 * Helpful for people with sensory issues like me
 
-* VERY PRUGLE!
+* VERY PURPLE THATS GOOD!
 
 ## Developer Notes
 
