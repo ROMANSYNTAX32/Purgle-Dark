@@ -1,5 +1,6 @@
 {
 	"name": "Purgle Dark (Purple)",
+	"type": "Dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
