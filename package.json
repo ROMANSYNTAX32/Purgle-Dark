@@ -1,0 +1,21 @@
+{
+  "name": "prg-code-dark",
+  "displayName": "Purgle Dark (Purple Theme)",
+  "description": "An easy to look at ubuntu terminal styled theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purgle Dark (Purple)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purgle Dark (Purple)-color-theme.json"
+      }
+    ]
+  }
+}
