@@ -1,6 +1,6 @@
 # Purgle Dark (Easy Purple), Created By Moonie Wentz
 
-![alt text](resources/theme_example.png)
+![alt text](images/theme_example.png)
 
 * Easy on the eyes
 * Helpful for people with sensory issues like me
