@@ -1,6 +1,4 @@
-# prg-code-dark README
-
-## Purgle Dark (Easy Purple)
+# Purgle Dark (Easy Purple), Created By Moonie Wentz
 
 ![alt text](resources/theme_example.png)
 
