@@ -3,6 +3,7 @@
   "displayName": "Purgle Dark (Purple Theme)",
   "version": "0.0.2",
   "publisher": "rmsyntax",
+  "repository":{"url": "https://github.com/ROMANSYNTAX32/Purgle-Dark.git"},
   "description": "A purple theme thats easy for the eyes",
   "author": {
     "name": "Moonie Wentz"
