@@ -1,16 +1,16 @@
 # prg-code-dark README
 
-## Working with Markdown
+## Purgle Dark (Easy Purple)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![alt text](resources/theme_example.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* Easy on the eyes
+* Helpful for people with sensory issues like me
 
-## For more information
+* VERY PRUGLE!
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Developer Notes
 
-**Enjoy!**
+*Feel free to create your own version of Purgle!*
+
+*Want more Purgle themes? lmk!*
