@@ -599,7 +599,7 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#b67bdf"
+		  "foreground": "#f3deff"
 		}
 	  },
 	  {
@@ -1913,7 +1913,7 @@
 	  "input.placeholderForeground": "#805f71",
 	  "textLink.foreground": "#6f80b2",
 	  "editor.background": "#3b202f",
-	  "editor.foreground": "#4266c3d0",
+	  "editor.foreground": "#fcfad4",
 	  "editorLineNumber.foreground": "#8075a7",
 	  "editorCursor.foreground": "#a78799",
 	  "editorCursor.background": "#ff5cb8d9",
@@ -1964,14 +1964,14 @@
 	  "diffEditor.insertedTextBackground": "#9bb95533",
 	  "diffEditor.removedTextBackground": "#ff000033",
 	  "diffEditor.border": "#c0c0c087",
-	  "panel.background": "#513846",
-	  "panel.border": "#99718754",
-	  "panelTitle.activeBorder": "#e7e7e7",
-	  "panelTitle.activeForeground": "#e7e7e7",
-	  "panelTitle.inactiveForeground": "#e7e7e799",
+	  "panel.background": "#382630",
+	  "panel.border": "#8b7d91",
+	  "panelTitle.activeBorder": "#e4d5eb",
+	  "panelTitle.activeForeground": "#e4d5eb",
+	  "panelTitle.inactiveForeground": "#e4d5eb99",
 	  "badge.background": "#ab5b5b",
 	  "badge.foreground": "#d1a5be",
-	  "terminal.foreground": "#d9bccc",
+	  "terminal.foreground": "#c2b2c1",
 	  "terminal.selectionBackground": "#d1a5be40",
 	  "terminalCursor.background": "#301f28",
 	  "terminalCursor.foreground": "#734f63",

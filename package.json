@@ -1,7 +1,7 @@
 {
   "name": "rmsyntax-purgle-dark",
   "displayName": "Purgle Dark (Purple)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "rmsyntax",
   "repository":{"url": "https://github.com/ROMANSYNTAX32/Purgle-Dark.git"},
   "description": "A purple theme thats easy for the eyes",
@@ -20,7 +20,7 @@
       {
         "label": "Purgle Dark (Purple)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Purgle Dark (Purple)-color-theme.json"
+        "path": "./themes/dark-purple.json"
       }
     ]
   }
